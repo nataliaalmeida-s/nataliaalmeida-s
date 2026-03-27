@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👩‍💻 Natália Almeida Santos
 
-<!--
-**nataliaalmeida-s/nataliaalmeida-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quality Assurance (QA) focada em garantir qualidade de ponta a ponta, com atuação em testes manuais e automação.
 
-Here are some ideas to get you started:
+🔍 Experiência em:
+- Testes funcionais e exploratórios
+- Automação de testes Web (Selenium + Java)
+- Testes de API (Postman | RestAssured - em progresso)
+- Boas práticas como Page Object Model (POM)
+- Versionamento com Git e gestão com JIRA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Foco em identificar riscos, prevenir falhas e garantir entregas com qualidade.
+
+📚 Estudando continuamente automação, testes de API e cloud (AWS)
+
+📌 Portfólio: https://github.com/nataliaalmeida-s
